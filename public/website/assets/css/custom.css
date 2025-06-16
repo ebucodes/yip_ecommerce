@@ -1,0 +1,27 @@
+.cr-shopping-bag {
+    position: relative;
+    display: inline-block;
+}
+
+.cart-count-badge {
+    position: absolute;
+    top: -8px;
+    right: -8px;
+    background-color: #ff4444;
+    color: white;
+    border-radius: 50%;
+    width: 18px;
+    height: 18px;
+    font-size: 11px;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 18px;
+    line-height: 1;
+    z-index: 10;
+}
+
+.cart-count-badge:empty {
+    display: none;
+}
