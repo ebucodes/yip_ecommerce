@@ -36,7 +36,6 @@
 
 ## URLs
 - Website: http://localhost:8000
-- Admin Panel: http://localhost:8000/account
 
 ## Tech Stack
 Laravel 11, Smarty Templates, MySQL
