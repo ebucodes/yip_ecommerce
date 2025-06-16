@@ -7,7 +7,6 @@
    git clone <repository-url>
    cd yip_ecommerce
    composer install
-   npm install
    ```
 
 2. **Environment**
